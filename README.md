@@ -10,7 +10,7 @@ This guide will help you make common changes to your dental booking system witho
 5. [Google Calendar Configuration](#google-calendar-configuration)
 6. [Updating Images](#updating-images)
 7. [Social Media Links](#social-media-links)
-8. [Setting Up Google Calendar Integration (Optional)](#setting-up-google-calendar-integration-optional)
+8. [Setting Up Google Calendar Integration)](#setting-up-google-calendar-integration-optional)
 
 ## Changing Company Name and Logo
 
